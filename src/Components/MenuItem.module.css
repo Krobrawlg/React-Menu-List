@@ -1,0 +1,42 @@
+.itemwrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+/* margin-right: 15px  */
+}
+
+.description{
+    display: inline-block;
+}
+
+.price{
+    color:#3783A1;
+}
+
+.amount{
+    display: inline-block;
+}
+
+.amount label{
+    padding: 0 1rem 0 0;
+}
+.amount input{
+    width: 2.5rem;
+    height: 2rem;
+    border-radius: 5px
+}
+
+.amount Button {
+    padding:0.25rem;
+    display: block;
+    border-radius: 10px;
+    background-color: #3783A1;
+    color: white;
+    font-weight: bold;
+
+}
+
+.hr{
+    border-top: 1px solid #FD9F12;
+}

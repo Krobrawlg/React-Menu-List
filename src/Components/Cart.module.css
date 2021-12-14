@@ -1,0 +1,35 @@
+.cartWrapper {
+    color: #fbeceb;
+    display:flex;
+    align-items:center;
+    width: 150px;
+    height: 50px;
+    background-color: #1d4555;
+    border-radius: 10px;
+
+
+  }
+
+.cartbutton {
+  /* background-color: #fe3321;
+  color: #fbeceb;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 15px; */
+  display: inline-block;
+  background-color: #1d4555;
+  border: none;
+  color: #fbeceb;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+
+.cartWrapper p {
+  display: inline-block;
+  background-color: #5395af;
+  color: #fbeceb;
+  border-radius: 20px;
+  padding: 5px 15px;
+  font-weight: bold;
+}

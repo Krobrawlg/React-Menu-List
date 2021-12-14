@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    /* position: fixed; */
+    background-color: #3783A1;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    top:0;
+    left:0;
+    padding: 10px;
+    color: #fbeceb;
+    box-shadow: 5px 5px 5px 0 black;
+
+}
